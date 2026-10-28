@@ -1,0 +1,6 @@
+history_id,period,credit_utilization,existing_debt,outcome,source,currency
+CH-001,2026-05,34,525000,on-time,Fictional sample record,INR
+CH-002,2026-06,38,510000,on-time,Fictional sample record,INR
+CH-003,2026-07,41,485000,on-time,Fictional sample record,INR
+CH-004,2026-08,45,466000,late,Fictional sample record,INR
+CH-005,2026-09,39,447000,on-time,Fictional sample record,INR

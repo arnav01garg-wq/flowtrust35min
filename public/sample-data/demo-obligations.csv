@@ -1,0 +1,9 @@
+obligation_id,due_date,payee,amount,amount_paid,category,currency
+BILL-2001,2026-07-08,Metro Materials,62500,62500,Inventory,INR
+BILL-2002,2026-08-08,Metro Materials,55000,55000,Inventory,INR
+BILL-2003,2026-09-10,Metro Materials,68500,68500,Inventory,INR
+BILL-2004,2026-10-18,Metro Materials,72000,72000,Inventory,INR
+OB-3001,2026-10-25,Urban Properties,48000,0,Rent,INR
+OB-3002,2026-10-28,Team Payroll,121000,0,Payroll,INR
+OB-3003,2026-11-03,City Utilities,19500,0,Utilities,INR
+OB-3004,2026-11-08,Metro Materials,84000,0,Inventory,INR

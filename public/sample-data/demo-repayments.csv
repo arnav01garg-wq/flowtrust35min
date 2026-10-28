@@ -1,0 +1,6 @@
+repayment_id,lender,due_date,paid_date,amount_due,amount_paid,outstanding_balance,currency
+LN-001,Small Business Term Loan,2026-07-05,2026-07-04,24500,24500,485000,INR
+LN-002,Small Business Term Loan,2026-08-05,2026-08-08,24500,24500,466000,INR
+LN-003,Small Business Term Loan,2026-09-05,2026-09-05,24500,24500,447000,INR
+LN-004,Equipment Finance,2026-10-05,2026-10-07,18200,18200,215000,INR
+LN-005,Small Business Term Loan,2026-11-05,,24500,0,428000,INR
